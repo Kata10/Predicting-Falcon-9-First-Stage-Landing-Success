@@ -59,7 +59,7 @@ By predicting whether the first stage will land successfully, we can determine p
 
 1. **Clone the repository:**
    ```bash
-
+    https://github.com/Kata10/Predicting-Falcon-9-First-Stage-Landing-Success/tree/main
 2. **Install the necessary dependencies:**
    ```bash
    pip install -r requirements.txt
